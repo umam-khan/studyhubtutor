@@ -28,11 +28,10 @@ export default function LandingPage() {
             />
 
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
-              Find other awesome devs to pair with online
+              Find tutors and study groups online 
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-200">
-              This platform is for sharing your screen and working with other
-              random developers online so that you can work together
+              This platform is for connecting with mentors, tutors and other students to help each other study and work on projects
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
